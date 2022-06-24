@@ -59,7 +59,7 @@ export function Subscribe() {
                     </form>
                 </div>
             </div>
-            <img src={codeMockup} className="mt-10" alt="" />
+            <img src={codeMuckup} className="mt-10" alt="" />
         </div>
     );
 }
